@@ -1,0 +1,2 @@
+|ID:100| Sala: A - Lotação: 25 |ID:1| Nome: Victor A[ Etapa 1 ][ Etapa 2 ] |ID:2| Nome: Victor B[ Etapa 1 ][ Etapa 2 ] |ID:3| Nome: Victor C[ Etapa 1 ] |ID:4| Nome: Victor D[ Etapa 1 ] |ID:5| Nome: Victor E[ Etapa 1 ] |ID:6| Nome: Victor F[ Etapa 2 ] |ID:7| Nome: Victor G[ Etapa 2 ]
+|ID:101| Sala: B - Lotação: 20 |ID:3| Nome: Victor C[ Etapa 2 ] |ID:4| Nome: Victor D[ Etapa 2 ] |ID:5| Nome: Victor E[ Etapa 2 ] |ID:6| Nome: Victor F[ Etapa 1 ] |ID:7| Nome: Victor G[ Etapa 1 ] |ID:8| Nome: Victor H[ Etapa 1 ][ Etapa 2 ] |ID:9| Nome: Victor I[ Etapa 1 ][ Etapa 2 ]
