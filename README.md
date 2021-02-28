@@ -1,12 +1,12 @@
 # Evento
 Gerenciador do Evento
 
-Para compilar e executar o programa selecione a pasta src, dentro dela então todas as classes do sistema, basta criar um projeto usando a ferramenta Eclipse IDE, criar as classes
-com o mesmo nome e colar o código de cada classe correspondente.
+Para compilar e executar o programa selecione a pasta src deste repositório, dentro dela então todas as classes do sistema, basta criar um projeto utilizando a ferramenta Eclipse
+IDE, criar um novo projeto e as classes com o mesmo nome, cole o código de cada classe correspondente.
 
 A classe inicial é o "Sistema", nela você escolhe entre gerenciar as informações dos participantes, salas ou espaços de café. Também possui a opção "Processar Dados" que irá 
-analisar todos os dados cadastrados (Cadastre todos os dados antes de utilizar esta opção e use apenas uma vez, caso contrário terá que deletar as informações e cadastrá-las 
-novamente). Os participantes serão atribuídos às salas e aos espaços de café conforme o número de participantes e separados por etapa.  As salas e espaços de café passarão a 
+analisar todos os dados cadastrados (Cadastre todos os dados antes de utilizar esta opção e use-a apenas uma vez, caso contrário terá que deletar as informações e cadastrá-las 
+novamente). Os participantes serão atribuídos às salas e aos espaços de café conforme o número de participantes e separados por etapa.  As salas e espaços de café passarão à 
 conter os participantes que utilizarão esses locais.
 
 A classe "TelaParticipante" possui o CRUD (Create (Criação), Read (Ler), Update (Atualizar) e Delete (Destruir)) dos participantes, com ele será possível realizar o cadastro, a
