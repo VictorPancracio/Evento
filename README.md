@@ -18,5 +18,7 @@ A classe "TelaEspaco" possui o CRUD dos espaços de café, com ele será possív
 
 Aos cadastrar os dados lembre-se de não atribuir IDs iguais, não importando se são números ou letras.
 
+Todos os dados são salvos em arquivos de texto para garantir a permanência de dados.
+
 Após cadastrar todos os dados volte a tela inicial do Sistema e pressione o botão de Processar Dados, agora todos os participantes estão atribuídos à uma sala e espaço e vice-
 versa. Para consultar os dados basta ir na opção de gerenciar, informar o ID da Sala, Espaço ou Participante e clicar em Buscar.
