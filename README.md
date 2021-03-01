@@ -2,7 +2,7 @@
 Gerenciador do Evento
 
 Para compilar e executar o programa selecione a pasta src deste repositório, dentro dela então todas as classes do sistema, basta criar um projeto em Java utilizando a ferramenta Eclipse
-IDE, criar um novo projeto e as classes com o mesmo nome, cole o código de cada classe correspondente.
+IDE, criar as classes com o mesmo nome e colar o código de cada classe correspondente.
 
 A classe inicial é o "Sistema", nela você escolhe entre gerenciar as informações dos participantes, salas ou espaços de café. Também possui a opção "Processar Dados" que irá 
 analisar todos os dados cadastrados (Cadastre todos os dados antes de utilizar esta opção e use-a apenas uma vez, caso contrário terá que deletar as informações e cadastrá-las 
@@ -20,5 +20,4 @@ Aos cadastrar os dados lembre-se de não atribuir IDs iguais, não importando se
 
 Todos os dados são salvos em arquivos de texto para garantir a permanência de dados.
 
-Após cadastrar todos os dados volte a tela inicial do Sistema e pressione o botão de Processar Dados, agora todos os participantes estão atribuídos à uma sala e espaço e vice-
-versa. Para consultar os dados basta ir na opção de gerenciar, informar o ID da Sala, Espaço ou Participante e clicar em Buscar.
+Após cadastrar todos os dados volte a tela inicial do Sistema e pressione o botão de Processar Dados, agora todos os participantes estão atribuídos à uma sala e espaço e vice-versa. Para consultar os dados basta ir na opção de gerenciar, informar o ID da Sala, Espaço ou Participante e clicar em Buscar.
