@@ -1,7 +1,7 @@
 # Evento
 Gerenciador do Evento
 
-Para compilar e executar o programa selecione a pasta src deste repositório, dentro dela então todas as classes do sistema, basta criar um projeto utilizando a ferramenta Eclipse
+Para compilar e executar o programa selecione a pasta src deste repositório, dentro dela então todas as classes do sistema, basta criar um projeto em Java utilizando a ferramenta Eclipse
 IDE, criar um novo projeto e as classes com o mesmo nome, cole o código de cada classe correspondente.
 
 A classe inicial é o "Sistema", nela você escolhe entre gerenciar as informações dos participantes, salas ou espaços de café. Também possui a opção "Processar Dados" que irá 
